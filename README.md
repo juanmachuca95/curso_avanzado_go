@@ -6,7 +6,7 @@
 -- go run .\main.exe
 
 -- Design Patterns or Patrones de diseño
-#### Factory - Lectura: 
+#### Factory - Lectura: https://refactoring.guru/es/design-patterns/factory-method
 #### Singleton - Lectura: https://refactoring.guru/es/design-patterns/singleton
 
 
